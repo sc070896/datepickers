@@ -7,7 +7,8 @@
   "module": "index.js",
   "typings": "index.d.ts",
   "dependencies": {
-   "datepickers": "sc070896/datepickers#master"
+    "datepickers":"https://github.com/sc070896/datepickers.git"
+    // "datepickers": "sc070896/datepickers#master"
   },
   "devDependencies": {},
   "scripts": {
