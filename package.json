@@ -1,0 +1,32 @@
+{
+  "name": "ng6-datepickers",
+  "version": "1.0.3",
+  "description": "datepicker with multiple features",
+  "main": "bundles/datepickers.umd.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "dependencies": {
+  "datepickers": "sc070896/datepickers#master"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular6",
+    "datepicker"
+  ],
+  "author": "santosh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sc070896/datepickers.git"
+  },
+  "homepage": "https://github.com/sc070896/datepickers",
+  "bugs": {
+    "url": "https://github.com/sc070896/datepickers/issues"
+  },
+  "peerDependencies": {
+    "@angular/core": "^2.4.0 || ^4.0.0"
+  }
+}
